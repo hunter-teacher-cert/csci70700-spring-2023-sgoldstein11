@@ -1,4 +1,4 @@
-Substitution cipher replit with commented code: https://replit.com/@StacyG/QuestionableDroopyModule#main.py
+Markdown file explaining how to carry out the caesar cipher AND a Substitution  cipher python file replit with commented code showing how a subtitution cipher could work to encrypt code:  https://replit.com/@StacyG/QuestionableDroopyModule#main.py
 
 * Instructions
 
